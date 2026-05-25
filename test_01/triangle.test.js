@@ -1,7 +1,7 @@
 import classifyTriangle from './triangle';
 
-describe('Kiểm thử Module Phân Loại Tam Giác', () => {
-  describe('Nhóm 1: Kiểm tra ngoại lệ', () => {
+describe('Module Phân Loại Tam Giác', () => {
+  describe('Nhóm 1: Kiểm tra ngoại lệ đầu vào', () => {
     test('TC_01: Biên dưới của a vi phạm', () => {
       expect(classifyTriangle(0, 50, 50)).toBe('Invalid Input');
     });

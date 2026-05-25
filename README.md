@@ -35,3 +35,7 @@ Hãy đảm bảo máy tính của bạn đã cài đặt sẵn các công cụ 
 **_Bài kiểm thử 01: Phân loại tam giác_**
 
 ![Bài kiểm thử 01: Phân loại tam giác](./docs/test_01.png)
+
+**_Bài kiểm thử 02: Hệ thống cho vay_**
+
+![Bài kiểm thử 02: Hệ thống cho vay](./docs/test_02.png)
